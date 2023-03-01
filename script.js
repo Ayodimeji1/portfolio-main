@@ -28,5 +28,5 @@ function setTheme(mode){
 		document.getElementById('theme-style').href = 'blue.css'
 	}
 
-	localStorage.setItem('theme', mode)
+	localStorage.setItem('theme', mode) 
 }
